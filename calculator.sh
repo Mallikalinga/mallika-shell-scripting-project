@@ -9,5 +9,10 @@ x=1+2
 
 # Division
 
+
 # percentage
+
+
+
+# Multiplication
 
